@@ -1,3 +1,4 @@
+#list is mutable
 friends= ["Apple", "Aakash", 5, 354.342, False] #We can add any type of data in a list
 print(friends)
 

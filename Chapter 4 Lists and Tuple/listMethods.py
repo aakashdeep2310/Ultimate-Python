@@ -13,6 +13,8 @@ print(friends)
 friends.remove("Apple") #Removes the first occurrence of the element
 print(friends)
 
+
 l1 = [5, 7, 3, 2, 1, 4]
 l1.sort() #Sorts the list
 print(l1)
+
